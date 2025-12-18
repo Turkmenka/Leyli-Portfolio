@@ -1,6 +1,6 @@
-# 💼 Responsive Personal Portfolio Website
-## [Watch it on youtube](https://youtu.be/5-_2z-DdWng)
-### 💼 Responsive Personal Portfolio Website
+# 💼 My Portfolio Website
+
+### 💼 My Portfolio Website
 
 - Responsive Personal Portfolio Website Design Using HTML CSS & JavaScript
 - Includes a light and dark theme.
@@ -11,4 +11,5 @@
 
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/preview.png)
+![preview img](/preview1.jpg)
+![preview img](/preview2.jpg)
