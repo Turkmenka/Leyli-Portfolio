@@ -11,5 +11,5 @@
 
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/preview1.jpg)
-![preview img](/preview2.jpg)
+![preview img](/preview1.jpeg)
+![preview img](/preview2.jpeg)
